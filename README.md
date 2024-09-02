@@ -20,3 +20,5 @@ It is better to name the group as a price, for example "30 rubles", so it will b
 6. In the "ICQ UIN base" section, add products to the database.
 
 Enjoy!
+
+(c) digg 2011
