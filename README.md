@@ -10,7 +10,7 @@ default:
 login: admin
 password: admin
 ```
-3. Enter your SMS API ID;
+3. Enter your SMS API ID from Profit-bill;
 
 4. Update (.CSV) the number database on the "SMS Numbers Groups" page;
 
